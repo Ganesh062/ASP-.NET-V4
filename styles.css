@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+header { background-color: #f8b400; padding: 20px; text-align: center; }
+header h1 { margin: 0; }
+nav { background: #333; text-align: center; padding: 10px; }
+nav a { color: white; margin: 0 10px; text-decoration: none; font-weight: bold; }
+main { padding: 20px; }
+.product { border: 1px solid #ccc; padding: 10px; margin: 10px; display: inline-block; width: 200px; text-align: center; }
+.product img { width: 150px; height: 150px; object-fit: cover; }
+footer { background-color: #333; color: white; text-align: center; padding: 10px; }
